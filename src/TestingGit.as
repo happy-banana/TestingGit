@@ -6,7 +6,10 @@ package
 	{
 		public function TestingGit()
 		{
-			super();
+			//weeral wat zaken verwijderen en dan testen of het nog werkt
+			
+			
+			
 		}
 	}
 }
