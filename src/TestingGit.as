@@ -15,6 +15,10 @@ package
 			
 			var blblabla:Number = 3;
 			
+			//blijkbaar werkt het nu wel allemaal
+			
+			
+			
 		}
 	}
 }
