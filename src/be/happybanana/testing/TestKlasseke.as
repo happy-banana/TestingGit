@@ -6,7 +6,8 @@ package be.happybanana.testing
 	{
 		public function TestKlasseke()
 		{
-			//dit is nog altijd niet gecommit
+			//ik heb hier een commentaarke toegevoegd
+			
 		}
 	}
 }
